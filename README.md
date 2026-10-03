@@ -1,17 +1,21 @@
-# teste_flutter
+# Decore com a Li – Assistente Inteligente de Decoração
 
-A new Flutter project.
+## Integrantes
 
-## Getting Started
+- **Carlos Miguel de Souza Costa** – RA: 26001695
+- **Leticia Stanguini da Silva** – RA: 26001696
 
-This project is a starting point for a Flutter application.
+## Sobre o projeto
 
-A few resources to get you started if this is your first Flutter project:
+O **Decore com a Li** é um aplicativo desenvolvido em Flutter que utiliza Inteligência Artificial para auxiliar na criação de ideias de decoração para eventos.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+O usuário informa dados como tipo de evento, tema, cores, orçamento e descrição. A aplicação utiliza essas informações para gerar uma sugestão de decoração personalizada.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologias utilizadas
+
+- Flutter
+- Dart
+- Node.js
+- Express
+- Inteligência Artificial
+- GitHub
